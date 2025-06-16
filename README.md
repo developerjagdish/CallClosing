@@ -6,7 +6,7 @@
 CallClosing AI is a modern web application that empowers real estate professionals to **automate outreach**, manage leads efficiently, and **increase conversions** using intelligent AI-driven calling and seamless data management.
 
 ---
-
+![Screenshot](screenshot.png)
 ## 🚀 Features
 
 ### 🔊 AI-Powered Calling & Dynamic Scripting
